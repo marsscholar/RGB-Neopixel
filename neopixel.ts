@@ -2,6 +2,8 @@
  * Well known colors for a NeoPixel strip
  */
 enum NeoPixelColors {
+    //% block=none
+    None = 0x000000
     //% block=red
     Red = 0xFF0000,
     //% block=orange
