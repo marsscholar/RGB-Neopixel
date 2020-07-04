@@ -3,7 +3,7 @@
  */
 enum NeoPixelColors {
     //% block=none
-    None = 0x000000
+    None = 0x000000,
     //% block=red
     Red = 0xFF0000,
     //% block=orange
