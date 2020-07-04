@@ -2,6 +2,7 @@
   "NeoPixelMode.RGB|block": "RGB（GRB顺序）",
   "NeoPixelMode.RGBW|block": "RGB+W",
   "NeoPixelMode.RGB_RGB|block": "RGB（RGB顺序）",
+  "NeoPixelColors.None|block": "无",
   "NeoPixelColors.Red|block": "红",
   "NeoPixelColors.Orange|block": "橙",
   "NeoPixelColors.Yellow|block": "黄",
